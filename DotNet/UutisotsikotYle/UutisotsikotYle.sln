@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UutisotsikotYle", "UutisotsikotYle\UutisotsikotYle.csproj", "{E0BE198B-D655-4CA5-925A-4A028E0AC264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BE198B-D655-4CA5-925A-4A028E0AC264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE198B-D655-4CA5-925A-4A028E0AC264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE198B-D655-4CA5-925A-4A028E0AC264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE198B-D655-4CA5-925A-4A028E0AC264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63932999-308E-4321-BCA8-E2386C9F0A01}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+26.5.2021 11.47.38: Luettu tiedosto, yhteensä 4 riviä.
+26.5.2021 11.47.38: Muunnettu merkkijonot numeroiksi.
+26.5.2021 11.47.38: Keskiarvo laskettu, tulos: 32,5.
+26.5.2021 11.58.18: Luettu tiedosto, yhteensä 5 riviä.
+26.5.2021 12.02.10: Luettu tiedosto, yhteensä 4 riviä.
+26.5.2021 12.02.33: Muunnettu merkkijonot numeroiksi.
+26.5.2021 12.02.33: Keskiarvo laskettu, tulos: 32,5.
